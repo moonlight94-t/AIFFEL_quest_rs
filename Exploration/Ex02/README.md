@@ -24,7 +24,8 @@
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - ensemble, gridsearch, ridge를 사용하여 성능을 높이고, 다양한 시도를 해서 좋았다.
-        - ![스크린샷 2025-03-31 103954](https://github.com/user-attachments/assets/138b6![스크린샷 2025-03-31 104033](https://github.com/user-attachments/assets/0fe35ec4-0f41-41ee-bd0e-54ace3435b96)
+        - ![스크린샷 2025-03-31 103954](https://github.com/user-attachments/assets/138b6
+        - ![스크린샷 2025-03-31 104033](https://github.com/user-attachments/assets/0fe35ec4-0f41-41ee-bd0e-54ace3435b96)
 22d-36e0-4902-b0e0-3bd4e2e1b23b)
 
         
